@@ -1,4 +1,4 @@
-PythonPacketSniffer
+Sample scripts for packet sniffing and injection
 ===================
 
-Python scripts packet sniffing and back-door..!
+This repository contains sample scripts for packet sniffing and injection with different techniques in Python.
